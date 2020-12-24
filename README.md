@@ -7,6 +7,8 @@
 
 ## 2 资源分享
 
+[时间管理](https://share.weiyun.com/5qAtCjD "可以提升你10倍人生效率的时间管理10堂客")
+
 ## 3 Python
 
 ## 4 Linux
